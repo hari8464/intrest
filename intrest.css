@@ -1,0 +1,30 @@
+#hari{
+    text-align:centre;}
+
+h1{background-color: rgb(164, 233, 233);
+    text-align: center;
+     color:black;
+    border-width: medium;height: 50px;}
+.intrest{
+    background-color: rgb(178, 211, 140);
+    color: rgb(107, 69, 97);
+    border: 300px;
+    margin: 350px;width: 600px;
+    
+}
+button{background-color: green;}
+table{
+    border:400px;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
+td{text-align: center;}
+th{
+    text-align:center;
+    border: ivory;
+}
+table,th,td{
+    border: 3px solid rgb(168, 43, 43);
+}
